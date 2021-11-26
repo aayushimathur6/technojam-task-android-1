@@ -1,0 +1,6 @@
+How did I approach my task?
+I am currently in  between of  learning java so to make an app was quite difficult for me or  to just use my knowledge and make it work so therfore i watched some of the youtbe tutorials like how to firstly use android studio , from installing it to making a page app named hello world and then making BMI calculator app by using my bit now knowledge of java and maing it work by myself.
+what were the challenges you faced?
+Talking about the challenges i faced while making app was as this was my first time of making app so using constraints making it align was quite making me impatient as it was collapsing again and again  and then correcting names in my xml code was making my design reuion so i have to delete it so many times and then from starting i have to start.
+INTRODUCTION:
+My name is Aayushi Mathur , i am currently an undergrade in Btech CSE with specialization in Artificial intelligence and MachineLearning from Galgotia University. I have done my schooling from Vishwa Bharati Public School Noida.
